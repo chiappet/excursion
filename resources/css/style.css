@@ -1,7 +1,10 @@
 * {
   font-family: "Verdana";
-  text-align: center;
   background-color: black;
+}
+
+#header {
+  text-align: center;
 }
 
 h1 {
@@ -11,13 +14,30 @@ h1 {
   text-align: center;
 }
 
-.download,
 a {
   color: aquamarine;
   font-size: 16px;
+  text-align: center;
+}
+
+#video{
+  text-align: center;
 }
 
 p {
   font-size: 21px;
+  color: Gray;
+}
+
+#guide {
+  text-align: center;
+}
+
+#download {
+  text-align: center;
+}
+
+#footer {
+  text-align: right;
   color: Gray;
 }
